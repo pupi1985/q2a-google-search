@@ -1,14 +1,14 @@
 {
-  "name": "Q2A Google Search",
-  "uri": "https://github.com/arjunsuresh/q2a-top-search",
-  "description": "Replaces Q2A search with Google custom search",
-  "version": "1.0",
-  "date": "2016-07-24",
-  "author": "Arjun Suresh",
-  "author_uri": "http://armi.in/arjun",
-  "license": "GPLv2",
-  "update_uri": "https://raw.githubusercontent.com/arjunsuresh/q2a-google-search/master/metadata.json",
-  "min_q2a": "1.5",
-  "min_php": "5.1.6"
-  "load_order": "after_db_init"
+    "name": "Q2A Google Search",
+    "uri": "https://github.com/pupi1985/q2a-google-search",
+    "description": "Replaces Q2A search with Google custom search",
+    "version": "1.0.1",
+    "date": "2022-06-23",
+    "author": "Arjun Suresh (extended by pupi1985)",
+    "author_uri": "http://armi.in/arjun",
+    "license": "GPLv2",
+    "update_uri": "https://raw.githubusercontent.com/pupi1985/q2a-google-search/master/metadata.json",
+    "min_q2a": "1.7.0",
+    "min_php": "5.1.6",
+    "load_order": "after_db_init"
 }
